@@ -7,4 +7,4 @@
 
 ---
 ##  在线体验
-[Banner-Demo on-line](https://hoosson.github.io/demo/banner-demo.html)
+[Banner-Demo 进入](https://hoosson.github.io/Banner-Demo.html)
